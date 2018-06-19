@@ -1,0 +1,9 @@
+Assignment 9.2
+
+1. Calculate the P Value for the test in Problem 2.
+0.04638932
+
+2. How do you test the proportions and compare against hypothetical props? Test Hypothesis: proportion of automatic cars is 40%.
+NA
+
+
